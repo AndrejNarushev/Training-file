@@ -46,7 +46,19 @@ git branch -d <branch name> удаление ветки
 
 git checkout <branch name> переход на ветку
 
+git checkout master  переход на ветку master
+
 git merge <branch name> слиянеие ветки в текущей версии
 
-git rebase <branch name to migrate> перенос верки на вершину
+git rebase <branch name to migrate> перенос ветки на вершину
+
+git status  просмотр статуса нахождения
+
+git diff   разница между текущим и сохраненным файлом
+
+## *8. Добавление картинки*
+
+
+
+
 
