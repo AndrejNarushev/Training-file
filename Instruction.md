@@ -37,3 +37,16 @@
 Ненумерованные списки - обозначаются знаками * в начале строки
 
 и т.д.
+
+## *6. Команды Git*
+
+git  branch <branch name> создание новой ветки
+
+git branch -d <branch name> удаление ветки
+
+git checkout <branch name> переход на ветку
+
+git merge <branch name> слиянеие ветки в текущей версии
+
+git rebase <branch name to migrate> перенос верки на вершину
+
